@@ -11,7 +11,7 @@ The Simple Web Shell is a lightweight and user-friendly web-based interface for 
 
 ## Demo
 
-![Simple Web Shell](https://storage.cloudconvert.com/tasks/b7db5100-3698-4b0e-9b37-8c24ebb41708/demo%20v1.0.0-dev.gif?AWSAccessKeyId=cloudconvert-production&Expires=1684387071&Signature=z7KmcpS%2Bvo8RNJDf1wjIdwDpumI%3D&response-content-disposition=attachment%3B%20filename%3D%22demo%20v1.0.0-dev.gif%22&response-content-type=image%2Fgif)
+![Simple Web Shell][demo_v1.0.0-dev]
 
 ## Getting Started
 
@@ -58,3 +58,5 @@ The Simple Web Shell is released under the [MIT License](https://choosealicense.
 ## Disclaimer
 
 The Simple Web Shell is designed for legitimate website management purposes and should only be used on websites where you have proper authorization. The developers and contributors of this project are not responsible for any misuse or unauthorized access to websites.
+
+[demo_v1.0.0-dev]: demo/demo%20v1.0.0-dev.gif
